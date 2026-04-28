@@ -26,8 +26,13 @@ img: "markets-snip.png"    },
         tech: "Flutter UI",
         link: "https://ahmedalshref054-lab.github.io/health-website/",
         img: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=600&auto=format&fit=crop"
-    }
-    
+    },
+    {
+        title: "صفحة عروض اسماك وطلبات",
+        desc: "صفحة متكاملة للعرض وطلب الطلبات",
+        tech: "Flutter / Firebase",
+        link: "https://ahmedalshref054-lab.github.io/Asmak-Seafood/",
+img: "images/7.png"    }
 ];
 const projectsContainer = document.getElementById('projects-container');
 
