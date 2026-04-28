@@ -3,7 +3,7 @@ const myProjects = [
         title: "منصة الأسعار الحية",
         desc: "تطبيق متطور لمتابعة أسعار السوق لحظياً باستخدام تقنيات الـ API المباشرة.",
         tech: "JavaScript / API",
-        link: "https://sinyorlive-bavarois-5df0f8.netlify.app/",
+        link: "https://ahmedalshref054-lab.github.io/Sinyor-Live-Markets/",
         // رابط صورة جديد ومضمون لمنصة العملات والأسعار
 img: "markets-snip.png"    },
     {
@@ -17,14 +17,14 @@ img: "markets-snip.png"    },
         title: "خدمات الطوارئ الفورية",
         desc: "مشروع خدمي رقمي يهدف لتسهيل الوصول للخدمات الطبية والطارئة.",
         tech: "Web Dev / UI",
-        link: "https://dancing-biscochitos-a7aae.netlify.app/",
+        link: "https://ahmedalshref054-lab.github.io/broject-app/",
         img: "https://images.unsplash.com/photo-1583321500900-82807e458f3c?q=80&w=600&auto=format&fit=crop"
     },
     {
         title: "تطبيق صحي متكامل",
         desc: "عرض لواجهات تطبيق ذكي لمتابعة اللياقة البدنية والقياسات الصحية.",
         tech: "Flutter UI",
-        link: "https://my-portfolio-ah.netlify.app/",
+        link: "https://ahmedalshref054-lab.github.io/health-website/",
         img: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=600&auto=format&fit=crop"
     }
 ];
