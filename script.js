@@ -10,7 +10,7 @@ img: "markets-snip.png"    },
         title: "بوابة الدخول الاحترافية",
         desc: "تصميم واجهة مستخدم متكاملة تركز على تجربة المستخدم وسهولة التفاعل.",
         tech: "HTML5 / CSS3",
-        link: "https://gogd-biscochitos-b7c0ee.netlify.app/",
+        link: "https://ahmedalshref054-lab.github.io/sin-app-gold/",
         img: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=600&auto=format&fit=crop"
     },
     {
@@ -27,6 +27,7 @@ img: "markets-snip.png"    },
         link: "https://ahmedalshref054-lab.github.io/health-website/",
         img: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=600&auto=format&fit=crop"
     }
+    
 ];
 const projectsContainer = document.getElementById('projects-container');
 
