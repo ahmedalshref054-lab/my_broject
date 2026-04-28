@@ -15,7 +15,7 @@
 ## 📸 لقطة من الموقع
 
 <p align="center">
-  <img src="رابط_صورة_البورتفوليو_هنا" alt="Portfolio Preview" width="600">
+<img width="1334" height="761" alt="image" src="https://github.com/user-attachments/assets/cb3e6846-9736-4f02-a242-f47bd276ad27" />
 </p>
 
 ## 🔗 روابط هامة
